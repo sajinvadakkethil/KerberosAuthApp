@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerberosAuthApp", "KerberosAuthApp.csproj", "{CF5BDCC9-F32A-45FF-93E0-E6D1805C887D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5BDCC9-F32A-45FF-93E0-E6D1805C887D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5BDCC9-F32A-45FF-93E0-E6D1805C887D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5BDCC9-F32A-45FF-93E0-E6D1805C887D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5BDCC9-F32A-45FF-93E0-E6D1805C887D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B33EF72-4954-4E6A-96E6-C9E5F1E06748}
+	EndGlobalSection
+EndGlobal
